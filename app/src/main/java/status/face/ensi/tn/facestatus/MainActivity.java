@@ -19,7 +19,8 @@ import org.opencv.core.Mat;
 import org.opencv.imgproc.Imgproc;
 
 /*
-This is the main Activity
+This is the main Activity 
+Pushed by Sameh
 */
 
 public class MainActivity extends Activity implements CvCameraViewListener2 {
